@@ -39,9 +39,9 @@ https://roblox.zendesk.com/auth/v2/host.js</br>https://en.help.roblox.com/cdn-cg
 https://roblox-api.arkoselabs.com/fc/gt2/public_key/476068BF-9607-4799-B53D-966BE98E2B81</br>https://roblox-api.arkoselabs.com/fc/a/</br>https://roblox-api.arkoselabs.com/fc/gfct/</br>https://roblox-api.arkoselabs.com/fc/misc/refresh/</br>https://roblox-api.arkoselabs.com/fc/ekey/</br>https://roblox-api.arkoselabs.com/fc/a/</br>https://roblox-api.arkoselabs.com/fc/ca/</br>https://roblox-api.arkoselabs.com/fc/api/</br>
 
 # Special
-UNKNOWN - No idea on how to use it
-AUTH - You need to be Authenticated
-XCSRF - Requires a X-CRF Token
+UNKNOWN - No idea on how to use it</br>
+AUTH - You need to be Authenticated (403)</br>
+XCSRF - Requires a X-CRF Token</br>
   
 http://api.roblox.com/game/GetAllowedExperimentalFeatures?placeId=1818 **[GET]**</br>
 http://api.roblox.com/game/GetCurrentUser.ashx **[UNKNOWN]**</br>
